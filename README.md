@@ -26,13 +26,13 @@ and asynchronously handles the user input for the game using a jumptable.
 Programming language involved: x86 Assembly Language.<br />
 Files modified: mp1.S<br />
 
-**4. Adventure (ECE 391):** Added multiple functionalities to an adventure-quest interactive game:
+**4. Adventure (ECE 391):** Added multiple functionalities to an adventure-quest interactive game:<br />
 
-    **i.   Movement across the image:** Enabled movement across the image using arrow keys by redrawing the parts of the image being traversed by the adventurer.<br />
-    **ii.  Tux Controller:** Added functionality to use input from a 'Tux Controller' (Similar to a video game controller) which contained buttons and LED lights
-         indicating the time game has running.<br />
-    **iii. Graphics:** Improved graphics by using octrees to select the best 128 colours to represent from the 4096 colours generated for the image and transferring them in the colour          palette.<br />
-    **iv.  Keyboard input and location display:** Added support for the current players's location and user input to be echoed on the screen in word-art font. <br />
+**i.   Movement across the image:** Enabled movement across the image using arrow keys by redrawing the parts of the image being traversed by the adventurer.<br />
+**ii.  Tux Controller:** Added functionality to use input from a 'Tux Controller' (Similar to a video game controller) which contained buttons and LED lights
+    indicating the time game has running.<br />
+**iii. Graphics:** Improved graphics by using octrees to select the best 128 colours to represent from the 4096 colours generated for the image and transferring them in the colour          palette.<br />
+**iv.  Keyboard input and location display:** Added support for the current players's location and user input to be echoed on the screen in word-art font. <br />
 
 
 Programming language involved: C, x86 assembly language.<br />
